@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\Programacion_2\Clase_16-10-2021\SolutionApp-SII\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\admin\Desktop\Programacion_2\Clase_16-10-2021\SolutionApp-SII\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\admin\Desktop\Programacion_2\Clase_16-10-2021\SolutionApp-SII\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Programacion_2\Clase_16-10-2021\SolutionApp-SII\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Programacion_2\Clase_16-10-2021\SolutionApp-SII\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\admin\Desktop\Programacion_2\Clase_16-10-2021\SolutionApp-SII\ClassLibrary\obj\Debug\ClassLibrary.pdb

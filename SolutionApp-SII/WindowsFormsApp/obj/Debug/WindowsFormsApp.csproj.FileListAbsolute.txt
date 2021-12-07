@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Programacion_2\Clase_16-10-2021\SolutionApp-SII\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\admin\Desktop\Programacion_2\Clase_16-10-2021\SolutionApp-SII\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\admin\Desktop\Programacion_2\Clase_16-10-2021\SolutionApp-SII\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\admin\Desktop\Programacion_2\Clase_16-10-2021\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Programacion_2\Clase_16-10-2021\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\admin\Desktop\Programacion_2\Clase_16-10-2021\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Programacion_2\Clase_16-10-2021\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Programacion_2\Clase_16-10-2021\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\admin\Desktop\Programacion_2\Clase_16-10-2021\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\admin\Desktop\Programacion_2\Clase_16-10-2021\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.FormSplash.resources
+C:\Users\admin\Desktop\Programacion_2\Clase_16-10-2021\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.FormMasterSinControlBox.resources
+C:\Users\admin\Desktop\Programacion_2\Clase_16-10-2021\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.FormPadreControlClose.resources
+C:\Users\admin\Desktop\Programacion_2\Clase_16-10-2021\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.FormLogin.resources
+C:\Users\admin\Desktop\Programacion_2\Clase_16-10-2021\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.FormMenuPrincipal.resources
