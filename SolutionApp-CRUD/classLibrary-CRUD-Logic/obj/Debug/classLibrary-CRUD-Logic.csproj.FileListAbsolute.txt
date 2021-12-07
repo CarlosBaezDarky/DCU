@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\SolutionApp-CRUD\classLibrary-CRUD-Logic\bin\Debug\classLibrary-CRUD-Logic.dll
+C:\Users\admin\source\repos\SolutionApp-CRUD\classLibrary-CRUD-Logic\bin\Debug\classLibrary-CRUD-Logic.pdb
+C:\Users\admin\source\repos\SolutionApp-CRUD\classLibrary-CRUD-Logic\obj\Debug\classLibrary-CRUD-Logic.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\SolutionApp-CRUD\classLibrary-CRUD-Logic\obj\Debug\classLibrary-CRUD-Logic.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SolutionApp-CRUD\classLibrary-CRUD-Logic\obj\Debug\classLibrary-CRUD-Logic.dll
+C:\Users\admin\source\repos\SolutionApp-CRUD\classLibrary-CRUD-Logic\obj\Debug\classLibrary-CRUD-Logic.pdb
